@@ -15,7 +15,7 @@ Ce projet ne nécessite pas d'autre installation particulière.
 
 Une blockchain anonymisée dans le cadre des crypto-monnaies. Chaque transaction entre deux utilisateurs est sauvegardé dans la blockchain, l'utilisation d'un canal de diffusion anonyme permettrait de protéger les informations permettant d'identifier l'acheteur et le vendeur.
 
-TODO
+La communication peer to peer, où chaque noeud du réseau est à la fois client et serveur. Ce système peut servir pour le partage de fichiers (torrent par exemple) et le calcul distribué (entre processus par exemple).
 
 
     2. Argumenter sur le fait que suite au protocole décrit dans la deuxième partie, Alice et Bob se retrouvent en possession d’un secret sur lequel l’adversaire n’a aucune information. Pourquoi est ce le cas ?
